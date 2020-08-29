@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056609168819",
+    "firebase_url": "https://pushnotificationapplicat-a6643.firebaseio.com",
+    "project_id": "pushnotificationapplicat-a6643",
+    "storage_bucket": "pushnotificationapplicat-a6643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056609168819:android:d1a2b0eca45a735602afc6",
+        "android_client_info": {
+          "package_name": "sohel.shaikh.pushnotificationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056609168819-50c9ebi9m3255oqqqquv7bn5rodeu9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzA-0A5FrP0tRQ2uUH3wnJO7SPrg_sxW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056609168819-50c9ebi9m3255oqqqquv7bn5rodeu9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
